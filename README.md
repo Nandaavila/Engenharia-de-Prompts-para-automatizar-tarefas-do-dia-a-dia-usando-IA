@@ -258,5 +258,23 @@ Estes templates utilizam as melhores práticas de delimitação, *few-shot*, con
 
 ---
 
+## ⚠️ Dificuldades Encontradas
+
+Durante o desenvolvimento deste projeto, foram observadas algumas dificuldades:
+
+- Ajustar o nível de detalhamento dos prompts
+- Refinar instruções para evitar respostas genéricas
+- Estruturar melhor os resultados gerados
+
+---
+
+## 🚀 Conclusão
+
+A Engenharia de Prompts demonstrou ser uma ferramenta poderosa para automatizar tarefas e melhorar a produtividade.
+
+O uso de prompts estruturados permite obter respostas mais precisas e organizadas, tornando essa habilidade essencial no uso de Inteligência Artificial moderna.
+
+---
+
 > Este repositório documenta como usar engenharia de prompt com foco em maturidade técnica e automação estratégica para o dia a dia como parte do Bootcamp Accenture/DIO.
 
