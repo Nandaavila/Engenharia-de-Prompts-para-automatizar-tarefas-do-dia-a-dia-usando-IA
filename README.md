@@ -1,5 +1,20 @@
-# Engenharia-de-Prompts-para-automatizar-tarefas-do-dia-a-dia-usando-IA
+![Status](https://img.shields.io/badge/status-concluído-green)
+![Bootcamp](https://img.shields.io/badge/bootcamp-Accenture%20DIO-blue)
+![Tema](https://img.shields.io/badge/tema-Engenharia%20de%20Prompts-purple)
+
+#  🧠 Engenharia de Prompts para Automatização de Tarefas com Inteligência Artificial
 Projeto sobre Engenharia de Prompts para automação de tarefas do dia a dia usando Inteligência Artificial.
+
+## 📑 Sumário
+
+- 📌 [Contexto](#-contexto)  
+- 🎯 [Objetivos](#-objetivos)  
+- 📚 [Curadoria de Fontes](#-curadoria-de-fontes)  
+- 🧪 [Engenharia de Prompts](#-engenharia-de-prompts-e-cicatrizes)  
+- ⚠️ [Dificuldades Encontradas](#-dificuldades-encontradas)  
+- 🧠 [Aplicações Práticas](#-aplicações-práticas)  
+- 🚀 [Conclusão](#-conclusão)  
+- 📖 [MiniGuia Final](#-miniguia-final)  
 
 ## 📌 Contexto
 
@@ -26,19 +41,19 @@ Este projeto tem como principais objetivos:
 
 As seguintes fontes foram utilizadas para o desenvolvimento deste projeto:
 
-- GUIA PRÁTICO DE ENGENHARIA DE PROMPT 2024 por ROBINSON FELIX
- chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://reuellopes.com.br/wp-content/uploads/2024/09/ebook-prompts.pdf
+- GUIA PRÁTICO DE ENGENHARIA DE PROMPT 2024 por Robinson Felix  
+https://reuellopes.com.br/wp-content/uploads/2024/09/ebook-prompts.pdf
 
-- APOSTILA Engenharia de Prompts - TCESP.pdf
- chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.tce.sp.gov.br/sites/default/files/2024-11/Engenharia%20de%20prompts.pdf
+- APOSTILA Engenharia de Prompts - TCESP  
+https://www.tce.sp.gov.br/sites/default/files/2024-11/Engenharia%20de%20prompts.pdf
 
 - Microsoft – Prompt Engineering  
 https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/prompt-engineering
 
-- GUIA PRÁTICO ENGENHARIA DE PROMPT
-chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://inova.coop.br/arquivos/Ensina/Guia_pr%C3%A1tico_InovaCoop_-_Engenharia_de_Prompt.pdf
+- GUIA PRÁTICO ENGENHARIA DE PROMPT – InovaCoop  
+https://inova.coop.br/arquivos/Ensina/Guia_pr%C3%A1tico_InovaCoop_-_Engenharia_de_Prompt.pdf
 
-- Engenharia de prompts: como aplicar no dia a dia
+- Engenharia de prompts: como aplicar no dia a dia – Serasa Experian  
 https://www.serasaexperian.com.br/conteudos/como-aplicar-engenharia-de-prompts/
 
 ---
@@ -51,7 +66,9 @@ Abaixo estão os principais prompts utilizados e suas melhorias.
 
 ### Prompt Inicial
 
-## Crie um guia completo sobre Engenharia de Prompt e o funcionamento dos modelos de linguagem (LLMs), incluindo fundamentos, técnicas e exemplos práticos.
+**Prompt utilizado:**
+
+Crie um guia completo sobre Engenharia de Prompt e o funcionamento dos modelos de linguagem (LLMs), incluindo fundamentos, técnicas e exemplos práticos.
 
 ## Resultado: O conteúdo estava extenso, mas sem organização clara para uso didático. Observe abaixo:
 
@@ -101,7 +118,9 @@ Abaixo, mostro como a combinação dessas técnicas funciona em cenários reais:
 
 ### Prompt Melhorado
 
-## Crie um guia estruturado sobre Engenharia de Prompt contendo:
+**Prompt utilizado:**
+
+Crie um guia estruturado sobre Engenharia de Prompt contendo:
 
 - Introdução histórica
 - Fundamentos dos LLMs
@@ -170,6 +189,8 @@ Copie, cole e adapte os colchetes com os dados do seu negócio ou rotina:
 
 
 ### Prompt Final Refinado
+
+**Prompt utilizado:**
 
 Crie um guia avançado e estruturado sobre Engenharia de Prompt contendo:
 
@@ -268,6 +289,20 @@ Durante o desenvolvimento deste projeto, foram observadas algumas dificuldades:
 
 ---
 
+## 🧠 Aplicações Práticas
+
+Durante o desenvolvimento do projeto, foram simuladas aplicações reais de prompts, como:
+
+- Geração de e-mails profissionais
+- Resumo automático de textos
+- Brainstorming de ideias de negócios
+- Extração de tarefas de reuniões
+- Planejamento de metas e projetos
+
+Essas aplicações demonstram como a Engenharia de Prompts pode ser utilizada no cotidiano para aumentar produtividade.
+
+---
+
 ## 🚀 Conclusão
 
 A Engenharia de Prompts demonstrou ser uma ferramenta poderosa para automatizar tarefas e melhorar a produtividade.
@@ -275,6 +310,30 @@ A Engenharia de Prompts demonstrou ser uma ferramenta poderosa para automatizar 
 O uso de prompts estruturados permite obter respostas mais precisas e organizadas, tornando essa habilidade essencial no uso de Inteligência Artificial moderna.
 
 ---
+
+## 📖 MiniGuia Final
+
+O MiniGuia desenvolvido neste projeto está disponível na pasta:
+
+📂 guia-estudo/
+
+Arquivo:
+
+📄 Guia_Engenharia_de_Prompts_NotebookLM.pdf
+
+Este guia contém:
+
+- Fundamentos dos LLMs
+- Técnicas modernas de prompting
+- Glossário técnico
+- Biblioteca de prompts reutilizáveis
+
+---
+
+## 👩‍💻 Autora
+
+Projeto desenvolvido por **Fernanda de Oliveira Ávila**  
+Como parte do Bootcamp Accenture/DIO, com foco em Engenharia de Prompts e Automação com Inteligência Artificial.
 
 > Este repositório documenta como usar engenharia de prompt com foco em maturidade técnica e automação estratégica para o dia a dia como parte do Bootcamp Accenture/DIO.
 
