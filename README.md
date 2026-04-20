@@ -335,5 +335,5 @@ Este guia contém:
 Projeto desenvolvido por **Fernanda de Oliveira Ávila**  
 Como parte do Bootcamp Accenture/DIO, com foco em Engenharia de Prompts e Automação com Inteligência Artificial.
 
-> Este repositório documenta como usar engenharia de prompt com foco em maturidade técnica e automação estratégica para o dia a dia como parte do Bootcamp Accenture/DIO.
+> Este repositório documenta como usar engenharia de prompt com foco em maturidade técnica e automação estratégica para o dia a dia como parte do Bootcamp Accenture/DIO, utilizando o NotebookLM.
 
